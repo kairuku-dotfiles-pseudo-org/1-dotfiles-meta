@@ -10,4 +10,4 @@ There is a general paradigm within most of the repos of content being under eith
 
 ##### Interim Screenshot
 A single view demonstrating some of my terminator, fish, and tmux configs for the time being, on a Gnome 3.16 desktop on Arch Linux:
-![screenshot of terminator, with fish and tmux visible in certain panes](https://raw.githubusercontent.com/kairuku-dotfiles-pseudo-org/1-dotfiles-meta/master/open/content/screenshots/terminator.png "screenshot of terminator, with fish and tmux visible in certain panes")
+![screenshot of terminator, with fish and tmux visible in certain panes](https://raw.githubusercontent.com/kairuku-dotfiles-pseudo-org/1-dotfiles-meta/master/open/content/screenshots/terminator-fish-tmux.png "screenshot of terminator, with fish and tmux visible in certain panes")
